@@ -1,0 +1,67 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Данные и модели (НЕ заливаем)
+known_faces/
+*.db
+*.sqlite
+*.sqlite3
+vosk-model-*/
+models/
+*.pth
+*.pt
+*.onnx
+
+# Кэш
+.cache/
+chroma_db/
+chroma/
+*.cache
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+*.tmp
+*.temp
+backup/
+
+# Тестовые файлы
+test_*.py
+monitor_*.py
+
+# Секреты
+.env
+config_secrets.py
+
+# ОС
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Личные данные (фото пользователей)
+media/
+known_faces/
+*.jpg
+*.jpeg
+*.png
