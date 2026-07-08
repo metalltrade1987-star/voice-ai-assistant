@@ -134,8 +134,6 @@ Silero: ~0.5GB
 
 📄 Лицензия
 MIT License
-👤 Автор
-Дмитрий Исаев
 GitHub: @metalltrade1987-star
 Email: overjoyed1987@gmail.com
 
